@@ -1,0 +1,97 @@
+body{
+  background-image:linear-gradient(rgb(9, 84, 9), rgb(0, 0, 0));
+}   
+.comment{
+  color: rgb(255, 255, 255);
+  margin-left: 40%;
+  
+}
+.comment:hover{
+  color:white;
+}
+textarea{
+  border-radius: 5%;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: black;
+  background-color: rgba(0, 255, 255, 0.389);
+  width:100%
+}
+textarea:hover{
+  background-color:white
+}
+.whole{
+  border-style: dashed;
+  border-color: white;
+  border-width: 2ch;
+}
+demos{
+  color: white;
+}
+.content1{
+  border-color: black;
+  border-width: 1ch;
+  border-style: dashed;
+  background-color: rgba(0, 34, 255, 0.849);
+  padding:25ch;
+  margin-left: 1%;
+  margin-right: 1%;
+  color: white
+}
+.content1:hover{
+  background-color: rgb(4, 37, 255);
+  border-color: white;
+}
+.content2{
+  border-color: black;
+  border-width: 1ch;
+  background-color:rgba(0, 34, 255, 0.849);
+  margin-top: 1ch;
+  margin-left: 1%;
+  margin-right: 1%;
+  padding: 25ch;
+  text-align: center;
+  border-style: dashed;  
+  color: white
+}
+.content2:hover{
+  background-color: rgb(4, 37, 255);
+  border-color: white;
+}
+.image1{
+  color: white;
+  margin-top: 0%;
+  border: 2px;
+  border-color: black;
+  border-style: dashed;
+  padding: 60px;
+}
+.image2{
+  color: white;
+  margin-top: 0%;
+  border: 2px;
+  border-color: black;
+  border-style: dashed;
+  margin-left: 0%;
+  padding: 60px;
+}
+ *{
+  align-items: center;
+} 
+.content{
+  /* border-style: dashed; */
+  font-weight:900;
+  /* background-color: rgb(2, 53, 2); */
+  color: white;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.content:hover{
+  color:rgb(135, 216, 135);
+}
+h1:hover{
+  color:rgb(255, 255, 255)
+}
+h1{
+  color:black;
+}
